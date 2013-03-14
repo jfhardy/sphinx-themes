@@ -287,13 +287,8 @@ div.admonition {
     box-shadow: 0px 8px 6px -8px #93a1a1;
 }
 
-div.admonition p {
+div.admonition p, div.admonition div.highlight {
     margin: 0.5em 1em 0.5em 1em;
-    padding: 0.2em;
-}
-
-div.admonition pre {
-    margin: 0.4em 1em 0.4em 1em;
 }
 
 div.admonition p.admonition-title
