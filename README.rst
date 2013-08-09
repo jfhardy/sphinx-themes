@@ -6,13 +6,20 @@ documentation projects.
 
 Preview
 -------
-To see how these themes look, visit http://vimalkumar.in/sphinx-themes
+To see how these themes look, visit http://vkvn.github.io/sphinx-themes
 
 Download
 --------
 Released versions are available from https://github.com/vkvn/sphinx-themes/downloads
 
-You can also download this repository as a `zip archive <https://github.com/vkvn/sphinx-themes/zipball/master>`_
+You can also download this repository as a `zip archive <https://github.com/vkvn/sphinx-themes/archive/master.zip>`_
+
+Contribute
+----------
+You can contribute to this project by
+
+* Adding your website to the `Wiki <https://github.com/vkvn/sphinx-themes/wiki/Who's-using%3F>`_
+* Buy themes and support the project - Currently `Solar <http://gum.co/hIuu>`_ is available. You will be notified of future releases when you purchase.
 
 Support
 -------
