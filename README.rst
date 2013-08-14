@@ -19,7 +19,7 @@ Contribute
 You can contribute to this project by
 
 * Adding your website to the `Wiki <https://github.com/vkvn/sphinx-themes/wiki/Who's-using%3F>`_
-* Buy themes and support the project - Currently `Solar <http://gum.co/hIuu>`_ is available. You will be notified of future releases when you purchase.
+* `Buy themes <http://gum.co/hIuu>`_ and support the project.
 
 Support
 -------
@@ -32,8 +32,5 @@ Themes are licensed under the
 
 .. raw:: html
 
-   <iframe style="border: 0; margin: 0; padding: 0;"
-           src="https://www.gittip.com/vkvn/widget.html"
-           width="48pt" height="22pt"></iframe>
-
-   <a href="http://coderwall.com/vkvn"><img alt="Endorse vkvn on Coderwall" src="http://api.coderwall.com/vkvn/endorsecount.png" /></a>
+    <a href="http://gum.co/hIuu">sphinx-themes by vkvn</a>
+    <script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
