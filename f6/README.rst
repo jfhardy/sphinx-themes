@@ -7,11 +7,11 @@ A light theme for Python Sphinx documentation projects. Mostly white -> #ffffff 
 
 Preview
 -------
-http://vimalkumar.in/sphinx-themes/f6
+http://biotechcoder.com/sphinx-themes/f6/html/index.html
 
 Download
 --------
-Released versions are available from http://github.com/vkvn/sphinx-themes/downloads
+Released versions are available from http://github.com/biotechcoder/sphinx-themes/downloads
 
 Installation
 ------------

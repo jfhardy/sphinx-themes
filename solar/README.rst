@@ -4,11 +4,11 @@ Solar is an attempt to create a theme for Sphinx based on the `Solarized <http:/
 
 Preview
 -------
-http://vimalkumar.in/sphinx-themes/solar
+http://biotechcoder.com/sphinx-themes/solar/html/index.html
 
 Download
 --------
-Released versions are available from http://github.com/vkvn/sphinx-themes/downloads
+Released versions are available from http://github.com/biotechcoder/sphinx-themes/downloads
 
 Installation
 ------------
