@@ -1,10 +1,5 @@
 sphinx-themes
 =============
-
-.. image:: https://badges.gitter.im/Join%20Chat.svg
-   :alt: Join the chat at https://gitter.im/biotechcoder/sphinx-themes
-   :target: https://gitter.im/biotechcoder/sphinx-themes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-
 These are some themes for Python `Sphinx <http://sphinx.pocoo.org/>`_
 documentation projects.
 
